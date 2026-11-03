@@ -1,0 +1,8 @@
+""" exercice 3 """
+
+__author__ = "sossou_e"
+
+
+def sum_numbers(numbers: list) -> int:
+    """Écrire une fonction qui prend en paramètre une liste et retourne la somme des nombres contenu dans la list."""
+    
